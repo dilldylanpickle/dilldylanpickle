@@ -1,6 +1,4 @@
 # Welcome to my GitHub <img src="Meme.gif" height="60"/>
-<p align="middle">
-</p>
 ## 🚌 I'm a Reverse Engineer & Security Researcher
 
 <h3 align="left">Languages and Tools:</h3>
