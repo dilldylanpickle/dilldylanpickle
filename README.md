@@ -7,19 +7,13 @@ hi im dylan and this is a test
 
 - 🌱 I’m currently learning **stuff**
 
-- 👯 I’m looking to collaborate on **code**
-
-- 🤝 I’m looking for help with **nothin**
-
 - 👨‍💻 All of my projects are available at [here](here)
 
 - 📝 I regularly write articles on [stuff](stuff)
 
 - 💬 Ask me about **cheese**
 
-- 📫 How to reach me **bruh@gmail.com**
 
-- 📄 Know about my experiences [chillin](chillin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
