@@ -1,17 +1,6 @@
-hi im dylan and this is a test
 
-<h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">A reverse engineer</h3>
 
-- 🔭 I’m currently working on [Cool Stuff](www.google.com)
-
-- 🌱 I’m currently learning **stuff**
-
-- 👨‍💻 All of my projects are available at [here](here)
-
-- 📝 I regularly write articles on [stuff](stuff)
-
-- 💬 Ask me about **cheese**
+## I'm a Reverse Engineer & Security Researcher
 
 
 
