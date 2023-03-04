@@ -7,7 +7,7 @@
 ## DeepVoicePickle's Binary Exploitation Roadmap
 ### A detailed roadmap series that serves as a step-by-step guide on binary exploitation!
 ### (I am not an expert)
-![Demo!](/demo/Binary-Exploitation-Roadmap.png)
+![Demo!](/demo/Binary-Exploitation-Roadmap-v2.png)
 
 (Note: Seriously, I'm not an expert. I produced music before I became a computer science major lol)
 
