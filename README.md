@@ -19,7 +19,7 @@ https://github.com/dilldylanpickle/PickleBoy-GameBoy-Emulator
 ### (I am not an expert)
 ![Demo!](/demo/Binary-Exploitation-Roadmap.png)
 
-(Note: That's just a gif playing..I'm still working on the CPU lol)
+(Note: Seriously, I'm not an expert. I produced music before I became a computer science major lol)
 
 ### Project Link Here:
 https://github.com/dilldylanpickle/PickleBoy-GameBoy-Emulator
