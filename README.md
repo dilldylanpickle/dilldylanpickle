@@ -14,6 +14,16 @@
 ### Project Link Here:
 https://github.com/dilldylanpickle/PickleBoy-GameBoy-Emulator
 
+## DeepVoicePickle's Binary Exploitation Roadmap
+### A detailed roadmap series that serves as a step-by-step guide on binary exploitation!
+### (I am not an expert)
+![Demo!](/demo/Binary-Exploitation-Roadmap.png)
+
+(Note: That's just a gif playing..I'm still working on the CPU lol)
+
+### Project Link Here:
+https://github.com/dilldylanpickle/PickleBoy-GameBoy-Emulator
+
 ## Most Recent Completed Project
 ### ROPcheck is a linux exploit development tool used for identifying potential Return Oriented Programming (ROP) gadgets in ELF executable files.
 ### (Currently supported on Ubuntu 20.04 and Arch Linux) 
