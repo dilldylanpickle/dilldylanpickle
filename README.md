@@ -12,7 +12,7 @@
 (Note: Seriously, I'm not an expert. I produced music before I became a computer science major lol)
 
 ### Project Link Here:
-[https://github.com/dilldylanpickle/PickleBoy-GameBoy-Emulator](https://github.com/dilldylanpickle/Binary-Exploitation-Roadmap)
+https://github.com/dilldylanpickle/Binary-Exploitation-Roadmap
 
 ## Work-In-Progress Project
 ### PickleBoy is a work-in-progress GameBoy emulator written in C++. The goal of the project is to accurately emulate the hardware of the original GameBoy.
