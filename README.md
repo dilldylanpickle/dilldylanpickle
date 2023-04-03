@@ -33,4 +33,5 @@ https://github.com/dilldylanpickle/PickleBoy-GameBoy-Emulator
 https://github.com/dilldylanpickle/ROPcheck
 
 #### Bonus, I used ROPcheck to solve all of ROP Empoirum's challenges!:
+![Demo!](/demo/ret2win32.png)
 https://github.com/dilldylanpickle/ROP-Emporium-Solutions
