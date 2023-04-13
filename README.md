@@ -14,16 +14,6 @@
 ### Project Link Here:
 https://github.com/dilldylanpickle/Binary-Exploitation-Roadmap
 
-## Work-In-Progress Project
-### PickleBoy is a work-in-progress GameBoy emulator written in C++. The goal of the project is to accurately emulate the hardware of the original GameBoy.
-### (CPU is based off the Sharp LR35902 chip)
-![Demo!](/demo/example.gif)
-
-(Note: That's just a gif playing..I'm still working on the CPU lol)
-
-### Project Link Here:
-https://github.com/dilldylanpickle/PickleBoy-GameBoy-Emulator
-
 ## Most Recent Completed Project
 ### ROPcheck is a linux exploit development tool used for identifying potential Return Oriented Programming (ROP) gadgets in ELF executable files.
 ### (Currently supported on Ubuntu 20.04 and Arch Linux) 
@@ -35,3 +25,14 @@ https://github.com/dilldylanpickle/ROPcheck
 #### Bonus, I used ROPcheck to solve all of ROP Empoirum's challenges!:
 ![Demo!](/demo/ret2win32.png)
 https://github.com/dilldylanpickle/ROP-Emporium-Solutions
+
+
+## Work-In-Progress Project
+### PickleBoy is a work-in-progress GameBoy emulator written in C++. The goal of the project is to accurately emulate the hardware of the original GameBoy.
+### (CPU is based off the Sharp LR35902 chip)
+![Demo!](/demo/example.gif)
+
+(Note: That's just a gif playing..I'm still working on the CPU lol)
+
+### Project Link Here:
+https://github.com/dilldylanpickle/PickleBoy-GameBoy-Emulator
