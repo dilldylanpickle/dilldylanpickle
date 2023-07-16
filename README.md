@@ -1,5 +1,5 @@
 # Welcome to my GitHub <img src="Meme.gif" height="60"/>
-## When i'm not making music, I like reverse engineering random stuff.
+## When i'm not making music, I like doing what I simply enjoy.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -25,14 +25,3 @@ https://github.com/dilldylanpickle/ROPcheck
 #### Bonus, I used ROPcheck to solve all of ROP Empoirum's challenges!:
 ![Demo!](/demo/ret2win32.png)
 https://github.com/dilldylanpickle/ROP-Emporium-Solutions
-
-
-## Work-In-Progress Project
-### PickleBoy is a work-in-progress GameBoy emulator written in C++. The goal of the project is to accurately emulate the hardware of the original GameBoy.
-### (CPU is based off the Sharp LR35902 chip)
-![Demo!](/demo/example.gif)
-
-(Note: That's just a gif playing..I'm still working on the CPU lol)
-
-### Project Link Here:
-https://github.com/dilldylanpickle/PickleBoy-GameBoy-Emulator
