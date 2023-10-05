@@ -3,7 +3,10 @@
 
 ## Languages and Tools
 - C/C++
+- Python3
+- x86-64 Assembly
 - Ghidra
+- Objdump | less
 
 ## Some Random Tool Buired in my Repo
 ### ROPcheck is a linux exploit development tool used for identifying potential Return Oriented Programming (ROP) gadgets in ELF executable files.
