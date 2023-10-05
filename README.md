@@ -3,7 +3,7 @@
 
 ## Languages and Tools
 - C/C++
-- Python3
+- Python
 - x86-64 Assembly
 - Ghidra
 - Objdump | less
