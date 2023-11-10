@@ -12,7 +12,7 @@
 ## Current Project:
 ### Shellrealm is linux based command and control (C2) framework made to practice CNO development.
 
-![Demo!](/demo/shellrealm-demo.png)
+![Demo!](/demo/shellrealm-demo-2.png)
 
 * Payload Crafting and Delivery
 * Secure Encryption
