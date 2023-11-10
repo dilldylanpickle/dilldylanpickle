@@ -9,12 +9,16 @@
 - objdump -M intel -D binary.elf | less
 
 
-## Current Project
+## Current Project:
 ### Shellrealm is linux based command and control (C2) framework made to practice CNO development.
+
+![Demo!](/demo/shellrealm-demo.png)
+
 * Payload Crafting and Delivery
 * Secure Encryption
 * Remote Access Capabilities
 * Linux Kernel Modules
+
 
 ### Project Link Here:
 https://github.com/dilldylanpickle/C2-Server
