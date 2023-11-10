@@ -9,7 +9,17 @@
 - objdump -M intel -D binary.elf | less
 
 
-## Some Random Tool Buired in my Repo
+## Current Project
+### Shellrealm is linux based command and control (C2) framework made to practice CNO development.
+* Payload Crafting and Delivery
+* Secure Encryption
+* Remote Access Capabilities
+* Linux Kernel Modules
+
+### Project Link Here:
+https://github.com/dilldylanpickle/C2-Server
+
+## Some Fun Tool Buired in my Repo
 ### ROPcheck is a linux exploit development tool used for identifying potential Return Oriented Programming (ROP) gadgets in ELF executable files.
 ### (Currently supported on Ubuntu 20.04 and Arch Linux) 
 ![Demo!](/demo/animated_demo_v7.gif)
