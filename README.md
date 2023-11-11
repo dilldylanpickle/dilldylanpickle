@@ -14,6 +14,7 @@
 
 ![Demo!](/demo/shellrealm-demo-2.png)
 
+* Built-in Shell Environment
 * Payload Crafting and Delivery
 * Secure Encryption
 * Remote Access Capabilities
