@@ -12,8 +12,16 @@
 ## Current Project:
 ### Shellrealm is linux based command and control (C2) framework made to practice CNO development.
 
+### (Will be supported on Ubuntu 22.04 and Arch Linux) 
+
 ![Demo!](/demo/shellrealm-demo-5.png)
 
+In this proof-of-concept, we do the following:
+* Infect computer 192.168.69.69 with a payload called exploit
+* Send over a rootkit called malware to 192.168.69.69
+* Accessed compromised computer 192.168.69.69 with a reverse shell
+
+Shellrealm features:
 * Built-in Shell Environment
 * Payload Crafting and Delivery
 * Secure Encryption
