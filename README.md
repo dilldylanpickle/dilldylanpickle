@@ -1,10 +1,17 @@
 # Welcome to my GitHub!
 ## When i'm not making music, I like doing stuff in my free time.
 
+This includes:
+* Reverse engineering
+* CNO Development
+* BBQing meat
+* Working out at the gym
+* Blasting the subs in my truck
+
 ## Languages and Tools
-- C/C++
+- C
 - Python
-- x86-64 Assembly
+- x86/x86-64 Assembly
 - Ghidra
 - objdump -M intel -D binary.elf | less
 
