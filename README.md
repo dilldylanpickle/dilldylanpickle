@@ -17,7 +17,7 @@
 * Payload Crafting and Delivery
 * Secure Encryption
 * Remote Access Capabilities
-* Linux Kernel Modules
+* Linux Kernel Module Rootkit
 
 ### Project Link Here:
 https://github.com/dilldylanpickle/Shellrealm
