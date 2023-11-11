@@ -16,10 +16,11 @@
 
 ![Demo!](/demo/shellrealm-demo-5.png)
 
-#### In this proof-of-concept, we do the following:
+#### In this proof-of-concept, we did the following:
 * Infected computer 192.168.69.69 with a payload called exploit
 * Sent over a rootkit called malware to 192.168.69.69
 * Accessed compromised computer 192.168.69.69 with a reverse shell
+* Caused chaos and destruction :)
 
 #### Shellrealm features:
 * Built-in Shell Environment
