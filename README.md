@@ -37,6 +37,16 @@ This includes:
 * Remote Access Capabilities
 * Linux Kernel Module Rootkit
 
+C2 Framework Design:
+```
++-----------+      +---------+      +------------+      +-------------------+
+| C2 Server | ---> | Rootkit | ---> | Obfuscator | ---> | Victim's Computer |
++-----------+      +---------+      +------------+      +-------------------+
+     |                                                           /^\
+     |                                                            |
+     +--------------------> Payload Exploit ----------------------+
+```
+
 ### Project Link Here:
 https://github.com/dilldylanpickle/Shellrealm
 
