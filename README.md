@@ -4,6 +4,7 @@
 This includes:
 * Reverse engineering
 * CNO Development
+* Vulnerability research
 * BBQing meat
 * Working out at the gym
 * Blasting the subs in my truck
