@@ -3,14 +3,12 @@
 
 This includes:
 * Reverse engineering
-* CNO Development
 * Vulnerability research
-* BBQing meat
 * Working out at the gym
 * Blasting music at the loudest frequency possible
 
 ## I'm Busy
-I am full time doing Windows RE so I'm not active on GitHub anymore :(
+I am full time doing RE so I'm not active on GitHub anymore :(
 
 ## Languages and Tools
 - C
