@@ -1,5 +1,5 @@
 # Welcome to my GitHub!
-I am a bum
+I am a recent college graduate working as a reverse engineer specializing in laziness.
 
 ## DeepVoicePickle's Binary Exploitation Roadmap
 ### A detailed roadmap series that serves as a step-by-step guide on binary exploitation!
