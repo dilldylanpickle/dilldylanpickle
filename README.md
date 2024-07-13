@@ -1,21 +1,5 @@
 # Welcome to my GitHub!
-## When i'm not making music, I like doing stuff in my free time.
-
-This includes:
-* Reverse engineering
-* Working out at the gym
-* Blasting music at the loudest frequency possible
-
-## I'm Busy
-I am full time doing RE so I'm not active on GitHub anymore :(
-
-## Languages and Tools
-- C/C++
-- Python
-- x86/x86-64 Assembly
-- Ghidra
-- Binary Ninja
-- objdump -M intel -D binary.elf | less
+I am a bum
 
 ## DeepVoicePickle's Binary Exploitation Roadmap
 ### A detailed roadmap series that serves as a step-by-step guide on binary exploitation!
